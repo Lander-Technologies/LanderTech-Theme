@@ -1,0 +1,22 @@
+{
+    "name": "landertech-theme",
+    "displayName": "LanderTech Theme",
+    "publisher": "landertech",
+    "description": "another beautiful theme but this time created by landertech with love",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "LanderTech Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/LanderTech Theme-color-theme.json"
+            }
+        ]
+    }
+}
