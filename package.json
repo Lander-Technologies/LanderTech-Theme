@@ -3,7 +3,7 @@
     "displayName": "LanderTech Theme",
     "publisher": "landertech",
     "description": "another beautiful theme but this time created by landertech with love",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "icon":"images/lander.png",
     "engines": {
         "vscode": "^1.55.0"
