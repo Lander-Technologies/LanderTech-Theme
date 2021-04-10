@@ -4,6 +4,7 @@
     "publisher": "landertech",
     "description": "another beautiful theme but this time created by landertech with love",
     "version": "0.0.2",
+    "icon":"images/lander.png",
     "engines": {
         "vscode": "^1.55.0"
     },
